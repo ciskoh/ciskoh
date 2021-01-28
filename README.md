@@ -34,12 +34,11 @@ I strive to make the world more sustainable and computer models more useful. You
 - Data anaylsis & visualisation (Numpy, Pandas, Plotly, Dash)
 - Machine learning (Keras, TensorFlow, PyTorch)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<pin>/?username=<ciskoh>&theme=<dracula>" />
 
 ## My latest GIS & remote sensing projects:
    
-<img src="SAT.jpg" alt="drawing" width="200"/>
-[LandProductivity](https://github.com/ciskoh/LandProductivity): a ner real time monitoring tool to evaluate dynamic of vegetation
+![SAT](SAT.jpeg)   
+[LandProductivity:](https://github.com/ciskoh/LandProductivity) a ner real time monitoring tool to evaluate dynamic of vegetation
 
 ## My latest business analytics projects:
    ![BUSINESS](BUSINESS.jpeg)   
