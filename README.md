@@ -38,20 +38,20 @@ I strive to make the world more sustainable and computer models more useful. You
 ## My latest GIS & remote sensing projects:
    
 ![SAT](SAT.jpeg)   
-[LandProductivity:](https://github.com/ciskoh/LandProductivity) a ner real time monitoring tool to evaluate dynamic of vegetation
+- [LandProductivity:](https://github.com/ciskoh/LandProductivity) a ner real time monitoring tool to evaluate dynamic of vegetation --> [look at the interactive map](https://matteojriva.users.earthengine.app/view/suiviedesinterventionsmidelt)
 
 ## My latest business analytics projects:
    ![BUSINESS](BUSINESS.jpeg)   
-[Location intelligence](https://github.com/ciskoh/migros_branch_optimisation): A machine learning model to find new locations for supermarkets 
+- [Location intelligence](https://github.com/ciskoh/migros_branch_optimisation): A machine learning model to find new locations for supermarkets --> [blogpost](https://matteo-jriva.medium.com/location-intelligence-the-branch-network-optimization-problem-4aa4740088d8) [interactive map](https://www.google.com/maps/d/u/0/edit?mid=1_uX0U2V-byD1GLv0KRuWC2Gxv2wRuNT7&usp=sharing)
 
 ## My latest computer vision projects:   
    ![COMPvIZ](COMPvIZ.jpeg)    
 - [qu](https://github.com/ciskoh/qu): ML model to segment microscope images for life science research (contributor)
-- [herbaria--plant labelling](https://github.com/ciskoh/herbaria--plant-labeling): A deep learning model to label herbarium samples
+- [herbaria--plant labelling](https://github.com/ciskoh/herbaria--plant-labeling): A deep learning model to label herbarium samples --> [blogpost by my colleague](https://lindseyviann.medium.com/final-bootcamp-blitz-b0e94407b0a)
 
 ## My latest NLP projects:   
    ![LANG](LANG.jpeg)   
-[VirtualHerbarium](https://github.com/ciskoh/VirtualHerbarium) a web scraper and automatic summarizer to retrieve information about plants
+- [VirtualHerbarium](https://github.com/ciskoh/VirtualHerbarium) a web scraper and automatic summarizer to retrieve information about plants
 
 ## Things I do for fun:   
    ![FUN](FUN.jpeg)   
