@@ -28,11 +28,11 @@ I strive to make the world more sustainable and computer models more useful. You
 
 ### Here are my technical skills:
 
-- Geodata management and processing: QGIS, ArcGIS, GeoServer, PostGIS)
+- Geodata management and processing: QGIS, ArcGIS, GeoServer, PostGIS
 - Satellite Image analysis: Google Earth Engine, GRASS, Envi
 - Programming: Python, R, JavaScript
-- Data anaylsis & visualisation (Numpy, Pandas, Plotly, Dash)
-- Machine learning (Keras, TensorFlow, PyTorch)
+- Data analysis & visualisation: (Numpy, Pandas, Plotly, Dash)
+- Machine learning & deep learning: (Keras, TensorFlow, PyTorch)
 
 
 ## My latest GIS & remote sensing projects:
@@ -42,12 +42,12 @@ I strive to make the world more sustainable and computer models more useful. You
 
 ## My latest business analytics projects:
    ![BUSINESS](BUSINESS.jpeg)   
-- [Location intelligence](https://github.com/ciskoh/migros_branch_optimisation): A machine learning model to find new locations for supermarkets --> [blogpost](https://matteo-jriva.medium.com/location-intelligence-the-branch-network-optimization-problem-4aa4740088d8) [interactive map](https://www.google.com/maps/d/u/0/edit?mid=1_uX0U2V-byD1GLv0KRuWC2Gxv2wRuNT7&usp=sharing)
+- [Location intelligence](https://github.com/ciskoh/migros_branch_optimisation): A machine learning model to find new locations for supermarkets --> [raed the blogpost](https://matteo-jriva.medium.com/location-intelligence-the-branch-network-optimization-problem-4aa4740088d8) [look at the interactive map](https://www.google.com/maps/d/u/0/edit?mid=1_uX0U2V-byD1GLv0KRuWC2Gxv2wRuNT7&usp=sharing)
 
 ## My latest computer vision projects:   
    ![COMPvIZ](COMPvIZ.jpeg)    
 - [qu](https://github.com/ciskoh/qu): ML model to segment microscope images for life science research (contributor)
-- [herbaria--plant labelling](https://github.com/ciskoh/herbaria--plant-labeling): A deep learning model to label herbarium samples --> [blogpost by my colleague](https://lindseyviann.medium.com/final-bootcamp-blitz-b0e94407b0a)
+- [herbaria--plant labelling](https://github.com/ciskoh/herbaria--plant-labeling): A deep learning model to label herbarium samples --> [read the blogpost by my colleague Lindsey Viann](https://lindseyviann.medium.com/final-bootcamp-blitz-b0e94407b0a)
 
 ## My latest NLP projects:   
    ![LANG](LANG.jpeg)   
