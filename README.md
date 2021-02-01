@@ -26,11 +26,7 @@ I strive to make the world more sustainable and computer models more useful. You
 <a href="https://github.com/ciskoh/ciskoh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ciskoh&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
-<a href="https://github.com/ciskoh/ciskoh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ciskoh&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+    
 
 ## My latest GIS & remote sensing projects:
    
