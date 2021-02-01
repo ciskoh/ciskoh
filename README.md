@@ -5,7 +5,7 @@
 ## you are in the repository of dr Matteo Jucker Riva   
    
 I am a Geography PhD & data scientist with a global and multidisciplinary background.
-I strive to make the world more sustainable and computer models more useful. You can fin me on [linkedin](https://www.linkedin.com/in/matteojriva/) and [researchgate 
+I strive to make the world more sustainable and computer models more useful. You can find me on [linkedin](https://www.linkedin.com/in/matteojriva/) and [researchgate 
 ](https://www.researchgate.net/profile/Matteo_Jucker_Riva). Sometimes I write blogposts on [medium](https://matteo-jriva.medium.com/)
 
 ### Here are my technical skills:
@@ -28,7 +28,8 @@ I strive to make the world more sustainable and computer models more useful. You
 ## My latest GIS & remote sensing projects:
    
 ![SAT](SAT.jpeg)   
-- [LandProductivity:](https://github.com/ciskoh/LandProductivity) a ner real time monitoring tool to evaluate dynamic of vegetation --> [look at the interactive map](https://matteojriva.users.earthengine.app/view/suiviedesinterventionsmidelt)
+- [LandProductivity:](https://github.com/ciskoh/LandProductivity) a near real time monitoring tool to to monitor forest and rangeland management--> [look at the interactive map](https://matteojriva.users.earthengine.app/view/suiviedesinterventionsmidelt)
+
 
 ## My latest business analytics projects:
    ![BUSINESS](BUSINESS.jpeg)   
