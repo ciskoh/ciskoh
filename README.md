@@ -27,11 +27,11 @@ I strive to make the world more sustainable and computer models more useful. You
 </a>
 
 
-
 ## My latest GIS & remote sensing projects:
    
 ![SAT](SAT.jpeg)   
-- [LandProductivity:](https://github.com/ciskoh/LandProductivity) a near real time monitoring tool to to monitor forest and rangeland management--> [look at the interactive map](https://matteojriva.users.earthengine.app/view/suiviedesinterventionsmidelt)
+- [LandProductivity:](https://github.com/ciskoh/LandProductivity) a near real time tool to to monitor forest and rangeland management--> [look at the interactive map](https://matteojriva.users.earthengine.app/view/suiviedesinterventionsmidelt)    
+- - [LandPro v2:](https://github.com/ciskoh/climate_hackathon) a AI enhanced CO2 estimation tool for farms, 2nd place at the HacktheClimate 2021 --> [see project description](https://devpost.com/software/landpro) [see medium post](https://matteo-jriva.medium.com/our-experience-at-the-hacktheclimate-2021-28ae8e01700d)   
 
 
 ## My latest business analytics projects:
