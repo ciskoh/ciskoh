@@ -70,7 +70,7 @@ I strive to make the world more sustainable and computer models more useful. You
     
 ## My favorite business analytics projects:    
 
-<div class="card" style="display:inline-block;margin-right:10px;">
+<div class="card" >
 <table width="35%" href="https://github.com/ciskoh/migros_branch_optimisation" >
   <tr>
     <th><img class="project-image" src="images/project_img/loc_int2.jpeg" max-height="250" width="250" href="https://github.com/ciskoh/migros_branch_optimisation"></th></tr>
