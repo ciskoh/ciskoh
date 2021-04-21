@@ -36,9 +36,9 @@ I strive to make the world more sustainable and computer models more useful. You
     <th><img class="project-image" src="SAT.jpeg" max-width="200" max-height="200" href="https://github.com/ciskoh/LandProductivity"></th></tr>
     <div class="technologies">
   <tr>
-<th ><a href="https://github.com/ciskoh/LandProductivity" ><h2 style="text-align:left" >Land productivity</h2></a>
+<a href="https://github.com/ciskoh/LandProductivity" ><h2 style="text-align:left" >Land productivity</h2></a>
     <img class="technology logo" alt="Google Earth Engine" src="images/logos/gee.png" width="40" height="40">
-    <img class="technology logo" alt="JavaScript" src="images/logos/js.png" width="40" height="40"></th>
+    <img class="technology logo" alt="JavaScript" src="images/logos/js.png" width="40" height="40">
     </tr>
 <tr><th><div style="text-align:left">Near real time tool to to monitor forest and rangeland productivity.</div>
   </tr>
