@@ -3,8 +3,8 @@
 
 
 ## you are in the repository of dr Matteo Jucker Riva   
+<div><img src="my_name_is.gif" width="300" ></div>
 
-![my name](my_name_is.gif)
 
 I am a Geography PhD & data scientist with a global and multidisciplinary background.
 I strive to make the world more sustainable and computer models more useful. You can find me on [linkedin](https://www.linkedin.com/in/matteojriva/) and [researchgate 
@@ -27,7 +27,7 @@ I strive to make the world more sustainable and computer models more useful. You
 </a>
 
 
-## My latest GIS & remote sensing projects:
+## My favorite GIS & remote sensing projects:
    
 <div id="GIS projects container" style="text-align:left">
 <div class="card" max-width="30%" style="align-left;margin-right:10px;">
@@ -36,9 +36,9 @@ I strive to make the world more sustainable and computer models more useful. You
     <th><img class="project-image" src="SAT.jpeg" max-width="200" max-height="200" href="https://github.com/ciskoh/LandProductivity"></th></tr>
     <div class="technologies">
   <tr>
-<th ><a href="https://github.com/ciskoh/LandProductivity" ><h2 style="text-align:left" >LandProductivity</h2></a>
-    <img class="technology logo" src="images/logos/gee.png" width="40" height="40">
-    <img class="technology logo" src="images/logos/js.png" width="40" height="40"></th>
+<th ><a href="https://github.com/ciskoh/LandProductivity" ><h2 style="text-align:left" >Land productivity</h2></a>
+    <img class="technology logo" alt="Google Earth Engine" src="images/logos/gee.png" width="40" height="40">
+    <img class="technology logo" alt="JavaScript" src="images/logos/js.png" width="40" height="40"></th>
     </tr>
 <tr><th><div style="text-align:left">Near real time tool to to monitor forest and rangeland productivity.</div>
   </tr>
@@ -53,10 +53,10 @@ I strive to make the world more sustainable and computer models more useful. You
     <th><img class="project-image" src="images/project_img/landpro_v2.png" max-height="200" max-width="200" href="https://github.com/ciskoh/climate_hackathon"></th></tr>
     <div class="technologies">
   <tr>
-<th ><a href="https://github.com/ciskoh/climate_hackathon" ><h2 style="text-align:left" >LandPro_carbon</h2></a>
-    <img class="technology logo" src="images/logos/py.jpeg" width="40" height="40"></th>
-    <img class="technology logo" src="images/logos/js.png" width="40" height="40"></th>
-    <img class="technology logo" src="images/logos/tf.png" width="40" height="40"></th>
+<th ><a href="https://github.com/ciskoh/climate_hackathon" ><h2 style="text-align:left" >LandPro carbon</h2></a>
+    <img class="technology logo" alt= "Python 3+" src="images/logos/py.jpeg" width="40" height="40"></th>
+    <img class="technology logo" alt= "JavaScript" src="images/logos/js.png" width="40" height="40"></th>
+    <img class="technology logo" alt= "Tensorflow"src="images/logos/tf.png" width="40" height="40"></th>
     </tr>
 <tr><th><div style="text-align:left">AI enhanced CO2 estimation tool for farms, 2nd place at the HacktheClimate 2021</div>
   </tr>
@@ -66,41 +66,124 @@ I strive to make the world more sustainable and computer models more useful. You
     </div>
 </div>
 </div>
+<div>  </div>
     
-    
-## My latest business analytics projects:
+## My favorite business analytics projects:    
 
 <div class="card" style="display:inline-block;margin-right:10px;">
-<table width="30%" href="https://github.com/ciskoh/migros_branch_optimisation" >
+<table width="35%" href="https://github.com/ciskoh/migros_branch_optimisation" >
   <tr>
-    <th><img class="project-image" src="images/project_img/loc_int2.jpeg" height="250" width="250" href="https://github.com/ciskoh/migros_branch_optimisation"></th></tr>
+    <th><img class="project-image" src="images/project_img/loc_int2.jpeg" max-height="250" width="250" href="https://github.com/ciskoh/migros_branch_optimisation"></th></tr>
     <div class="technologies">
   <tr>
 <th ><a href="https://github.com/ciskoh/migros_branch_optimisation" ><h2 style="text-align:left" >Location intelligence</h2></a>
-    <img class="technology logo" src="images/logos/sk_learn.jpeg" width="40" height="40"></th>
-    <img class="technology logo" src="images/logos/qgis.jpeg" width="40" height="40"></th>
+    <img class="technology logo" alt="Sci-Kit learn" src="images/logos/sk_learn.jpeg" width="40" height="40">
+    <img class="technology logo" alt="QGIS" src="images/logos/qgis.jpeg" width="40" height="40"></th>
     </tr>
-<tr><th><div style="text-align:left">machine learning model to find new locations for supermarkets</div>
+<tr><th><div style="text-align:left">Machine learning model to find new locations for supermarkets</div>
   </tr>
 <tr>
-    <th><a href="https://www.google.com/maps/d/u/0/edit?mid=1_uX0U2V-byD1GLv0KRuWC2Gxv2wRuNT7&usp=sharing">Look at the interactive map</a>
+    <th style="text-align:left"><a href="https://www.google.com/maps/d/u/0/edit?mid=1_uX0U2V-byD1GLv0KRuWC2Gxv2wRuNT7&usp=sharing">Look at the interactive map</a>
     <a href="https://matteo-jriva.medium.com/location-intelligence-the-branch-network-optimization-problem-4aa4740088d8">Read blog post</a></th>
     </div>
 </div>
 
 
-## My latest computer vision projects:   
-   ![COMPvIZ](COMPvIZ.jpeg)    
-- [qu](https://github.com/ciskoh/qu): ML model to segment microscope images for life science research (contributor, ongoing)   
-- [herbaria--plant labelling](https://github.com/ciskoh/herbaria--plant-labeling): A deep learning model to label herbarium samples --> [read the blogpost by my colleague Lindsey Viann](https://lindseyviann.medium.com/final-bootcamp-blitz-b0e94407b0a)
+## My favorite computer vision projects:   
+
+<div class="card" style="display:inline-block;margin-right:10px;">
+<table width="35%" >
+  <tr>
+    <th><img class="project-image" src="images/project_img/qu.png" max-height="250" width="250" ></th></tr>
+    <div class="technologies">
+  <tr>
+<th ><a href="https://github.com/ciskoh/qu" ><h2 style="text-align:left" >Qu</h2></a>
+    <img class="technology logo" alt= "Python 3+" src="images/logos/py.jpeg" width="40" height="40">
+    <img class="technology logo" alt= "Open CV" src="images/logos/cv2.png" width="40" height="40">
+    <img class="technology logo" alt= "Tensorflow" src="images/logos/tf.png" width="40" height="40"></th>
+    </tr>
+<tr><th><div style="text-align:left">ML model to segment microscope images for life science research (contributor)   </div>
+  </tr>
+<tr>
+    <a href="https://matteo-jriva.medium.com/on-a-cell-spotting-journey-with-qu-be253b21e6e7">Read blog post</a></th>
+    </div>
+</div>
+
+<div class="card" style="display:inline-block;margin-right:10px;">
+<table width="35%"  >
+  <tr>
+    <th><img class="project-image" src="images/project_img/herb.png" max-height="250" width="250" ></th></tr>
+    <div class="technologies">
+  <tr>
+<th ><a href="https://github.com/ciskoh/herbaria--plant-labeling" ><h2 style="text-align:left" >Herbaria</h2></a>
+    <img class="technology logo" alt= "Python 3+" src="images/logos/py.jpeg" width="40" height="40">
+    <img class="technology logo" alt= "Open CV" src="images/logos/cv2.png" width="40" height="40">
+    <img class="technology logo" alt= "Tensorflow" src="images/logos/tf.png" width="40" height="40"></th>
+    </tr>
+<tr><th><div style="text-align:left">deep learning model to label herbarium samples</div>
+  </tr>
+<tr>
+    <a href="https://lindseyviann.medium.com/final-bootcamp-blitz-b0e94407b0a">Read blog post</a></th>
+    </div>
+</div>
 
 ## My latest NLP projects:   
-   ![LANG](LANG_small.jpeg)   
-- [VirtualHerbarium](https://github.com/ciskoh/VirtualHerbarium) a web scraper and automatic summarizer to retrieve information about plants (ongoing)
+
+<div class="card" style="display:inline-block;margin-right:10px;">
+<table width="35%"  >
+  <tr>
+    <th><img class="project-image" src="LANG_small.jpeg" max-height="250" width="250" ></th></tr>
+    <div class="technologies">
+  <tr>
+<th ><a href="https://github.com/ciskoh/herbaria--plant-labeling" ><h2 style="text-align:left" >VirtualHerbarium</h2></a>
+    <img class="technology logo" alt="Python 3+" src="images/logos/py.jpeg" width="40" height="40">
+    <img class="technology logo" alt="huggingFace" src="images/logos/huf.png" width="40" height="40">
+    
+    </tr>
+<tr><th><div style="text-align:left">web scraper and automatic summarizer to retrieve information about plants (ongoing)</div>
+  </tr>
+<tr>
+    <a href=""></a></th>
+    </div>
+</div>
 
 ## Things I do for fun:   
-   ![FUN](FUN.jpeg)   
-- [A dashboard to visualize covid data for my Mum](https://github.com/ciskoh/mamma-il-covid)   
-- [An irrigator program for arduino plant based watering systems](https://github.com/ciskoh/irrigator_v2)   
+
+<div class="card" style="display:inline-block;margin-right:10px;">
+<table width="35%"  >
+  <tr>
+    <th><img class="project-image" src="images/project_img/covid.jpeg" max-height="250" width="250" ></th></tr>
+    <div class="technologies">
+  <tr>
+<th ><a href="https://github.com/ciskoh/mamma-il-covid" ><h2 style="text-align:left" >Mamma il covid</h2></a>
+    <img class="technology logo" alt="Python 3+" src="images/logos/py.jpeg" width="40" height="40">
+    <img class="technology logo" alt="Plotly" src="images/logos/plotly.png" width="40" height="40">
+    
+    </tr>
+<tr><th><div style="text-align:left">A dashboard to visualize real-time covid data for my Mum</div>
+  </tr>
+<tr>
+    <a href=""></a></th>
+    </div>
+</div>
+
+<div class="card" style="display:inline-block;margin-right:10px;">
+<table width="35%"  >
+  <tr>
+    <th><img class="project-image" src="images/project_img/watering.jpeg" max-height="250" width="250" ></th></tr>
+    <div class="technologies">
+  <tr>
+<th ><a href="https://github.com/ciskoh/mamma-il-covid" ><h2 style="text-align:left" >Arduino watering system</h2></a>
+    <img class="technology logo" alt="C++" src="images/logos/cplus.png" width="40" height="40">
+    </tr>
+<tr><th><div style="text-align:left">Irrigator program for arduino plant based watering systems</div>
+  </tr>
+<tr>
+    <a href=""></a></th>
+    </div>
+</div>
+
+
+<div><img src="contact_me.gif" width="300" ></div>
 
 ![contact me](contact_me.gif)
