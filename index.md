@@ -26,10 +26,10 @@ I strive to make the world more sustainable and computer models more useful. You
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ciskoh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-## My favorite latest GIS & remote sensing projects:
+## My favorite GIS & remote sensing projects:
 
-- [LandProductivity:](https://github.com/ciskoh/LandProductivity) a near real time tool to to monitor forest and rangeland management--> [look at the interactive map](https://matteojriva.users.earthengine.app/view/suiviedesinterventionsmidelt)    
-- - [LandPro v2:](https://github.com/ciskoh/climate_hackathon) a AI enhanced CO2 estimation tool for farms, 2nd place at the HacktheClimate 2021 --> [see project description](https://devpost.com/software/landpro) [see medium post](https://matteo-jriva.medium.com/our-experience-at-the-hacktheclimate-2021-28ae8e01700d)   
+- [LandPro:](https://github.com/ciskoh/LandProductivity) a near real time tool to to monitor forest and rangeland management--> [look at the interactive map](https://matteojriva.users.earthengine.app/view/suiviedesinterventionsmidelt)    
+- [LandPro carbon:](https://github.com/ciskoh/climate_hackathon) a AI enhanced CO2 estimation tool for farms, 2nd place at the HacktheClimate 2021 --> [see project description](https://devpost.com/software/landpro) [see medium post](https://matteo-jriva.medium.com/our-experience-at-the-hacktheclimate-2021-28ae8e01700d)   
 
 
 ## My favorite business analytics projects:
@@ -38,7 +38,7 @@ I strive to make the world more sustainable and computer models more useful. You
 
 ## My favorite computer vision projects:   
  
-- [qu](https://github.com/ciskoh/qu): ML model to segment microscope images for life science research (contributor, ongoing)   
+- [qu](https://github.com/ciskoh/qu): ML model to segment microscope images for life science research (contributor)--> [read the blogpost](https://matteo-jriva.medium.com/on-a-cell-spotting-journey-with-qu-be253b21e6e7)   
 - [herbaria--plant labelling](https://github.com/ciskoh/herbaria--plant-labeling): A deep learning model to label herbarium samples --> [read the blogpost by my colleague Lindsey Viann](https://lindseyviann.medium.com/final-bootcamp-blitz-b0e94407b0a)
 
 ## My favorite NLP projects:   
