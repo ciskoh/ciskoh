@@ -19,7 +19,7 @@ I strive to make the world more sustainable and computer models more useful. You
 - *Machine learning & deep learning*: Keras, TensorFlow, PyTorch
 
 <a href="https://jumpnet.enjinx.io/eth/asset/68c0000000000030?source=EnjinWallet-1.14.1">
-  <img align="center" src="/images/maker_badge.png" width=300>
+  <img src="/images/maker_badge.png" width=300>
 </a>
 
 ## My favorite GIS & remote sensing projects:
