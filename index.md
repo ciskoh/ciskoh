@@ -4,7 +4,7 @@
 
 ## you are in the repository of dr Matteo Jucker Riva   
 
-<div><img src="images/my_name_is.gif" width=300></div>
+<div style="display: block;  margin-left: auto;  margin-right: auto;  width: 50%;"><img src="images/my_name_is.gif" width=400 ></div>
 
 I am a Geography PhD & data scientist with a global and multidisciplinary background.
 I strive to make the world more sustainable and computer models more useful. You can find me on [linkedin](https://www.linkedin.com/in/matteojriva/) and [researchgate 
@@ -21,6 +21,7 @@ I strive to make the world more sustainable and computer models more useful. You
 <a href="https://jumpnet.enjinx.io/eth/asset/68c0000000000030?source=EnjinWallet-1.14.1">
   <img 600align="center" src="/images/maker_badge.png" width=300>
 </a>
+
 ## My favorite GIS & remote sensing projects:
 
 - [LandPro:](https://github.com/ciskoh/LandProductivity) a near real time tool to to monitor forest and rangeland management--> [look at the interactive map](https://matteojriva.users.earthengine.app/view/suiviedesinterventionsmidelt)    
@@ -45,5 +46,5 @@ I strive to make the world more sustainable and computer models more useful. You
 - [A dashboard to visualize covid data for my Mum](https://github.com/ciskoh/mamma-il-covid)   
 - [An irrigator program for arduino plant based watering systems](https://github.com/ciskoh/irrigator_v2)   
 
-<div><img src="images/contact_me.gif></div>
+<div><img src="images/contact_me.gif" width=400 style="display: block;  margin-left: auto;  margin-right: auto;  width: 50%;"></div>
 
