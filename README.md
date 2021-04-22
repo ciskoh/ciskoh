@@ -1,8 +1,6 @@
 # Hi there 👋
 
-
-
-## you are in the repository of dr Matteo Jucker Riva   
+<div><h1>you are in the repository of dr Matteo Jucker Riva</h1></div>   
 <div><img src="my_name_is.gif" width="300" ></div>
 
 
@@ -10,13 +8,13 @@ I am a Geography PhD & data scientist with a global and multidisciplinary backgr
 I strive to make the world more sustainable and computer models more useful. You can find me on [linkedin](https://www.linkedin.com/in/matteojriva/) and [researchgate 
 ](https://www.researchgate.net/profile/Matteo_Jucker_Riva). Sometimes I write blogposts on [medium](https://matteo-jriva.medium.com/)
 
-### Here are my technical skills:
+<div><h1>Here are my technical skills:</h1></div>
 
-- *Geodata management and processing*: QGIS, ArcGIS, GeoServer, PostGIS
-- *Satellite Image analysis*: Google Earth Engine, GRASS, Envi
-- *Programming*: Python, R, JavaScript
-- *Data analysis & visualisation*: Numpy, Pandas, Plotly, Dash
-- *Machine learning & deep learning*: Keras, TensorFlow, PyTorch
+<div>Geodata management and processing: QGIS, ArcGIS, GeoServer, PostGIS</div>
+<div>Satellite Image analysis: Google Earth Engine, GRASS, Envi</div>
+<div>Programming: Python, R, JavaScript</div>
+<div>Data analysis & visualisation: Numpy, Pandas, Plotly, Dash</div>
+<div>Machine learning & deep learning: Keras, TensorFlow, PyTorch</div>
 
 <a href="https://github.com/ciskoh/ciskoh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciskoh&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -27,11 +25,11 @@ I strive to make the world more sustainable and computer models more useful. You
 </a>
 
 
-## My favorite GIS & remote sensing projects:
+<div><h1>My favorite GIS & remote sensing projects:</h1></div>
    
 <div id="GIS projects container" style="text-align:left">
 <div class="card" max-width="30%" style="align-left;margin-right:10px;">
-<table width="30%" href="https://github.com/ciskoh/LandProductivity" >
+<table style="border-color:transaprent" width="30%" href="https://github.com/ciskoh/LandProductivity" >
   <tr>
     <th><img class="project-image" src="SAT.jpeg" max-width="200" max-height="200" href="https://github.com/ciskoh/LandProductivity"></th></tr>
     <div class="technologies">
@@ -48,7 +46,7 @@ I strive to make the world more sustainable and computer models more useful. You
 
 
 <div class="card" max-width="200" style="display:inline-block;margin-right:10px;">
-<table width="30%" href="https://github.com/ciskoh/climate_hackathon" >
+<table style="border-color:transparent" width="30%" href="https://github.com/ciskoh/climate_hackathon" >
   <tr>
     <th><img class="project-image" src="images/project_img/landpro_v2.png" max-height="200" max-width="200" href="https://github.com/ciskoh/climate_hackathon"></th></tr>
     <div class="technologies">
@@ -68,10 +66,10 @@ I strive to make the world more sustainable and computer models more useful. You
 </div>
 <div>  </div>
     
-## My favorite business analytics projects:    
+<div><h1>My favorite business analytics projects:</h1></div>
 
 <div class="card" >
-<table width="35%" href="https://github.com/ciskoh/migros_branch_optimisation" >
+<table style="border-color:transparent" width="35%" href="https://github.com/ciskoh/migros_branch_optimisation" >
   <tr>
     <th><img class="project-image" src="images/project_img/loc_int2.jpeg" max-height="250" width="250" href="https://github.com/ciskoh/migros_branch_optimisation"></th></tr>
     <div class="technologies">
@@ -89,10 +87,10 @@ I strive to make the world more sustainable and computer models more useful. You
 </div>
 
 
-## My favorite computer vision projects:   
+<div><h1>My favorite computer vision projects:</h1></div>
 
 <div class="card" style="display:inline-block;margin-right:10px;">
-<table width="35%" >
+<table style="border-color:transparent" width="35%" >
   <tr>
     <th><img class="project-image" src="images/project_img/qu.png" max-height="250" width="250" ></th></tr>
     <div class="technologies">
@@ -110,7 +108,7 @@ I strive to make the world more sustainable and computer models more useful. You
 </div>
 
 <div class="card" style="display:inline-block;margin-right:10px;">
-<table width="35%"  >
+<table style="border-color:transparent" width="35%"  >
   <tr>
     <th><img class="project-image" src="images/project_img/herb.png" max-height="250" width="250" ></th></tr>
     <div class="technologies">
@@ -127,10 +125,10 @@ I strive to make the world more sustainable and computer models more useful. You
     </div>
 </div>
 
-## My latest NLP projects:   
+<div><h1>My latest NLP projects:</h1></div>
 
 <div class="card" style="display:inline-block;margin-right:10px;">
-<table width="35%"  >
+<table style="border-color:transparent" width="35%"  >
   <tr>
     <th><img class="project-image" src="LANG_small.jpeg" max-height="250" width="250" ></th></tr>
     <div class="technologies">
@@ -147,10 +145,10 @@ I strive to make the world more sustainable and computer models more useful. You
     </div>
 </div>
 
-## Things I do for fun:   
+<div><h1>Things I do for fun:</h1></div>
 
 <div class="card" style="display:inline-block;margin-right:10px;">
-<table width="35%"  >
+<table style="border-color:transparent" width="35%"  >
   <tr>
     <th><img class="project-image" src="images/project_img/covid.jpeg" max-height="250" width="250" ></th></tr>
     <div class="technologies">
@@ -168,7 +166,7 @@ I strive to make the world more sustainable and computer models more useful. You
 </div>
 
 <div class="card" style="display:inline-block;margin-right:10px;">
-<table width="35%"  >
+<table style="border-color:transparent" width="35%"  >
   <tr>
     <th><img class="project-image" src="images/project_img/watering.jpeg" max-height="250" width="250" ></th></tr>
     <div class="technologies">
