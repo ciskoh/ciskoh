@@ -39,9 +39,9 @@ Machine learning model to find new locations for supermarkets -->[read the blogp
 - <a><img class="PY" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a><a><img class="tf" width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></a><a><img class="CV2" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></a>[herbaria--plant labelling](https://github.com/ciskoh/herbaria--plant-labeling): A deep learning model to classify herbarium samples -->[read the blogpost by my colleague Lindsey Viann](https://lindseyviann.medium.com/final-bootcamp-blitz-b0e94407b0a)
 
 ## Things I do for fun:   
-https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg
-- <a><img class="PY" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a><a><img class="PLOTLY" width="40" src="https://cdn-images-1.medium.com/max/100/1*4s68xZ7SUymwwDBn3V97hQ@2x.png"></a>A dashboard to visualize covid data for my Mum
-- [Irrigator](https://github.com/ciskoh/irrigator_v2):<a><img class="C++" width="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></a> <a><img class="ARDU" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"></a> [Mamma il covid](https://github.com/ciskoh/mamma-il-covid) A timekeeping program for an arduino plant watering systems
+
+- <a><img class="PY" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a><a><img class="PLOTLY" width="40" src="https://cdn-images-1.medium.com/max/100/1*4s68xZ7SUymwwDBn3V97hQ@2x.png"></a>[Mamma il covid](https://github.com/ciskoh/mamma-il-covid): A dashboard to visualize covid data for my Mum
+- <a><img class="C++" width="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></a> <a><img class="ARDU" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"></a> [Irrigator](https://github.com/ciskoh/irrigator_v2): A timekeeping program for an arduino plant watering systems
 
 <div style="display: block;  margin-left: auto;  margin-right: auto;  width: 50%;"><img src="images/contact_me.gif" width=400 ></div>
 
