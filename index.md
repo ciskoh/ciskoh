@@ -6,8 +6,8 @@
 
 <div style="display: block;  margin-left: auto;  margin-right: auto;  width: 50%;"><img src="images/my_name_is.gif" width=400 ></div>
 
-I am a Geography PhD & data scientist with a global and multidisciplinary background.
-I strive to make the world more sustainable and computer models more useful. You can find me on [linkedin](https://www.linkedin.com/in/matteojriva/) and [researchgate 
+I am a geography PhD & data scientist with 10+ years experience in making data useful. I work with engineers, scientists, farmers, leaders & business people around the world, building tools that help them take meaningful decisions in a complex world. I love Python, computer vision and data visualization. I am an experienced data cleaner and wrangler, and I like to solve problems using, science, technology & creativity. 
+You can find me on [linkedin](https://www.linkedin.com/in/matteojriva/) and [researchgate 
 ](https://www.researchgate.net/profile/Matteo_Jucker_Riva). Sometimes I write blogposts on [medium](https://matteo-jriva.medium.com/)
 
 ### Here are my technical skills:
