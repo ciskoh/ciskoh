@@ -34,7 +34,7 @@ I strive to make the world more sustainable and computer models more useful. You
 Machine learning model to find new locations for supermarkets -->[read the blogpost](https://matteo-jriva.medium.com/location-intelligence-the-branch-network-optimization-problem-4aa4740088d8); [look at the interactive map](https://www.google.com/maps/d/u/0/edit?mid=1_uX0U2V-byD1GLv0KRuWC2Gxv2wRuNT7&usp=sharing)
 
 ## My favorite computer vision projects:   
- https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg
+
 - <a><img class="PY" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a><a><img class="tf" width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></a><a><img class="PYTORCH" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"></a> [qu](https://github.com/ciskoh/qu): ML model to segment microscope images for life science research (contributor)-->[read the blogpost](https://matteo-jriva.medium.com/on-a-cell-spotting-journey-with-qu-be253b21e6e7)   
 - <a><img class="PY" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a><a><img class="tf" width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></a><a><img class="CV2" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></a>[herbaria--plant labelling](https://github.com/ciskoh/herbaria--plant-labeling): A deep learning model to classify herbarium samples -->[read the blogpost by my colleague Lindsey Viann](https://lindseyviann.medium.com/final-bootcamp-blitz-b0e94407b0a)
 
