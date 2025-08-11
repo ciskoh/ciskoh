@@ -37,13 +37,9 @@ I strive to make the world more sustainable and computer models more useful. You
 - [qu](https://github.com/ciskoh/qu): ML model to segment microscope images for life science research (contributor)-->[read the blogpost](https://matteo-jriva.medium.com/on-a-cell-spotting-journey-with-qu-be253b21e6e7)   
 - [herbaria--plant labelling](https://github.com/ciskoh/herbaria--plant-labeling): A deep learning model to label herbarium samples -->[read the blogpost by my colleague Lindsey Viann](https://lindseyviann.medium.com/final-bootcamp-blitz-b0e94407b0a)
 
-## My favorite NLP projects:   
-  
-- [VirtualHerbarium](https://github.com/ciskoh/VirtualHerbarium) a web scraper and automatic summarizer to retrieve information about plants (ongoing)
 
 ## Things I do for fun:   
 
-- [A dashboard to visualize covid data for my Mum](https://github.com/ciskoh/mamma-il-covid)   
 - [An irrigator program for arduino plant based watering systems](https://github.com/ciskoh/irrigator_v2)   
 
 <div><img src="images/contact_me.gif" width=400 style="display: block;  margin-left: auto;  margin-right: auto;  width: 50%;"></div>
